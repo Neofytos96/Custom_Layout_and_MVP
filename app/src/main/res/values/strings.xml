@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomLayout</string>
+    <string name="bed_with_value">Bed: %1$d</string>
+</resources>
